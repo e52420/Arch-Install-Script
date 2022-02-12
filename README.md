@@ -1,4 +1,7 @@
 # Arch-Install-Script
+
+![Arch](/arch-wallpaper.png)
+
 Forked from the script of Chris TiTus Tech
 
 ## Set up wifi in Arch Live ISO
