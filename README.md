@@ -19,7 +19,9 @@ Forked from the script of Chris Titus Tech
 ## Usage
 
 ```bash
-git clone 
+git clone https://github.com/e52420/Arch-Install-Script.git
+cd Arch-Install-Script
+sh archtitus.sh
 ```
 ## Credits
 https://github.com/ChrisTitusTech/
