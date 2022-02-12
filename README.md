@@ -2,7 +2,7 @@
 
 ![Arch](/arch-wallpaper.png)
 
-Forked from the script of Chris TiTus Tech
+Forked from the script of Chris Titus Tech
 
 ## Set up wifi in Arch Live ISO
 
