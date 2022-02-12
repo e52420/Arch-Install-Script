@@ -23,6 +23,15 @@ bison
 bluedevil
 bluez
 bluez-libs
+qbittorrent
+kdenlive 
+obs-studio 
+telegram-desktop 
+signal-desktop 
+discord 
+ttf-dejavu 
+ttf-liberation 
+noto-fonts
 bluez-utils
 bridge-utils
 btrfs-progs
